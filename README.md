@@ -6,4 +6,4 @@ We explain the MNIST dataset in Keras and the use of Callbacks in it's implement
 - **notebooks** : Notebooks explaining the implementation and `Keras.callbacks.TensorBoard`.
 - **mics** : Screenshots of resulting tensorboards
 
-Read <a href="#">this</a> notebook for everything that matters. 
+Read <a href="http://nbviewer.jupyter.org/github/ajhalthor/Callbacks-in-Keras/blob/master/notebooks/Callbacks%20%26%20Tensorboard%20with%20Keras.ipynb">this</a> notebook for everything that matters. 
